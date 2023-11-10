@@ -1,0 +1,11 @@
+    html, body {max-width: 800px; margin: 0px auto; padding-left: 10px; padding-right: 10px; font-family: 'Arial';
+    line-height:1.25em}
+    p {line-height: 1.5em}
+    body .main {width 100%; max-width: 800px; 
+    background-color: #white; }
+    pre { white-space: pre-wrap; word-break: keep-all; font-size: 1em}
+    .chatinput#bottom {}
+    h5 {line-height:1.5em;}
+  
+
+
