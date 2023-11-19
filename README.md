@@ -4,6 +4,10 @@ The herein-presented functions and software are described in the below-mentioned
 
 **Tobler, S. (submitted). Smart grading: A generative AI-based tool for knowledge-grounded answer evaluation in educational assessments**
 
+or 
+
+**Tobler, S. (pre-print) Smart Grading: A Generative AI-Based Tool for Knowledge-Grounded Answer Evaluation in Educational Assessments. Available at SSRN. http://dx.doi.org/10.2139/ssrn.4637633**
+
 # Software and Code
 
 ## ⌨️ Functions
