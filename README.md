@@ -2,11 +2,7 @@
 
 The herein-presented functions and software are described in the below-mentioned publication. Please cite accordingly:
 
-**Tobler, S. (submitted). Smart grading: A generative AI-based tool for knowledge-grounded answer evaluation in educational assessments**
-
-or 
-
-**Tobler, S. (pre-print) Smart Grading: A Generative AI-Based Tool for Knowledge-Grounded Answer Evaluation in Educational Assessments. Available at SSRN. http://dx.doi.org/10.2139/ssrn.4637633**
+**Tobler, S. (2024) Smart Grading: A Generative AI-Based Tool for Knowledge-Grounded Answer Evaluation in Educational Assessments. MethodsX, 12. https://doi.org/10.1016/j.mex.2023.102531**
 
 # Software and Code
 
