@@ -53,7 +53,7 @@ ui <- fluidPage(
   h5("API key", style = "font-weight: bold;"),
   textInput("apiKey", label = NULL, value = "sk-XXXXXXXXXXXXXXXXXXXXXXXXXX", width = "100%"),
   h5("GPT model", style = "font-weight: bold;"),
-  textInput("model", label = NULL, value = "gpt-4", width = "100%"),
+  textInput("model", label = NULL, value = "gpt-4o", width = "100%"),
   
   h5("Question", style = "font-weight: bold; padding-bottom: 0; margin-bottom: 0"),
   textInput("question", "", value = "Enter here the posed question", "", width = "100%"),
