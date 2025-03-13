@@ -6,6 +6,8 @@ The herein-presented functions and software are described in the below-mentioned
 
 # Software and Code
 
+> Please note that the functions are no longer being updated. To implement the application, we recommend adjusting the GPT-related part of the code by using the GPT functions from the  `ellmer` package. [Link](https://ellmer.tidyverse.org/)
+
 ## ⌨️ Functions
 
 - `eval_single`: This function allows running the evaluation function for an individual answer. 
