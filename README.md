@@ -6,6 +6,8 @@ The herein-presented functions and software are described in the below-mentioned
 
 # Software and Code
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 > Please note that the functions are no longer being updated. To implement the application, we recommend adjusting the GPT-related part of the code by using the GPT functions from the  `ellmer` package. [Link](https://ellmer.tidyverse.org/)
 
 ## ⌨️ Functions
